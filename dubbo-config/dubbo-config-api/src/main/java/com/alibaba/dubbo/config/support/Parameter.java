@@ -31,6 +31,7 @@ import java.util.Map;
  * Parameter 参数
  *
  * 用于 Dubbo {@link com.alibaba.dubbo.common.URL} 的参数拼接
+ * @author ocean
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)
